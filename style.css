@@ -1,0 +1,86 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+
+body {
+    margin: 0px;
+    background-image: url(IMAGES/background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+main {
+    padding:10%;
+}
+
+.layover{
+    background-color: rgba(0, 0, 0, 0.371);
+    border-radius: 20px;
+}
+
+header{
+    text-align: center;
+}
+
+.text-booleaners {
+    color: green;
+    font-family: 'Outfit', sans-serif;
+    color:#00DD00;
+    font-size: 250%;    
+}
+
+.logo-lim {
+    width: 18%;
+}
+
+
+.greenbox{
+    margin-top:10px;
+    text-align: center;
+    padding-top: 7px;
+    padding-bottom: 17px;
+    border-radius: 3px;
+    background: #51ff00;
+    width: 60%;
+    margin-left: 22%;
+    height: 40px;    
+}
+
+.s-box1 {
+    border-radius: 10px;
+    background: rgb(246, 209, 0);
+    width: 40%;
+    height: 25px;
+}
+.s-box2 {
+    border-radius: 10px;
+    background: rgb(64, 255, 0);
+    width: 70%;
+    height: 25px;
+}
+.s-box3 {
+    border-radius: 10px;
+    background: rgb(255, 0, 0);
+    width: 20%;
+    height: 25px;
+}
+
+
+button{
+    margin-right: 1%;
+    height: 25px;
+    font-size: 11px;
+    width: 18%;
+
+}
+
+.s-one{
+    margin:2%;
+    padding:1%;
+    padding-left: 20%;
+    font-family: 'Outfit', sans-serif;
+    color: white;
+}
